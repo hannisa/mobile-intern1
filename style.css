@@ -1,0 +1,27 @@
+.row-centered {
+	text-align: justify-all;
+}
+
+.col-centered {
+	display: inline-block;
+	float: none;
+	text-align: center;
+	margin-right: -4px;
+}
+
+.auth, .act {
+    width : 30px;
+    height : 30px;
+}
+
+.book{
+    width : 60px;
+    height : 80px;
+}
+
+#gambar{
+    margin-left: 20px;
+    margin-top: 20px;
+    width : 120px;
+    height : 160px;
+}
